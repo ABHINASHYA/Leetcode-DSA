@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1013-fibonacci-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Dynamic Programming
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
