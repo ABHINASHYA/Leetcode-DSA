@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0137-single-number-ii) |
+| [0162-find-peak-element](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0455-assign-cookies) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0162-find-peak-element](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0162-find-peak-element) |
 | [0792-binary-search](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0792-binary-search) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
