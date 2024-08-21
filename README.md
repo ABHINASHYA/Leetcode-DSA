@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
+| [0135-candy](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0162-find-peak-element) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
