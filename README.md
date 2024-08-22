@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1603-running-sum-of-1d-array) |
+| [2571-find-the-pivot-integer](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2714-left-and-right-sum-differences) |
 ## Simulation
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1013-fibonacci-number) |
 | [2491-smallest-even-multiple](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2491-smallest-even-multiple) |
+| [2571-find-the-pivot-integer](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2571-find-the-pivot-integer) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Dynamic Programming
 |  |
