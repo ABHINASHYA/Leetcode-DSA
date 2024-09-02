@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0890-lemonade-change) |
 | [1019-squares-of-a-sorted-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1019-squares-of-a-sorted-array) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1603-running-sum-of-1d-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0975-range-sum-of-bst) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0975-range-sum-of-bst) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Stack
 |  |
 | ------- |
@@ -206,8 +209,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0975-range-sum-of-bst](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0975-range-sum-of-bst) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
