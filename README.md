@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0890-lemonade-change) |
 | [1019-squares-of-a-sorted-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0455-assign-cookies) |
 | [1019-squares-of-a-sorted-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1019-squares-of-a-sorted-array) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
