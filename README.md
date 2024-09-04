@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0890-lemonade-change) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Divide and Conquer
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1603-running-sum-of-1d-array) |
 | [2571-find-the-pivot-integer](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2571-find-the-pivot-integer) |
