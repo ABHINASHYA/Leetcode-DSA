@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0342-power-of-four) |
@@ -171,18 +172,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0152-maximum-product-subarray) |
+| [0241-different-ways-to-add-parentheses](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1013-fibonacci-number) |
 ## Number Theory
 |  |
@@ -206,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0920-uncommon-words-from-two-sentences) |
