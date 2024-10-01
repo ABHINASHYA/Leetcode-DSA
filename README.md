@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0069-sqrtx) |
