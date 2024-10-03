@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0283-move-zeroes) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0241-different-ways-to-add-parentheses) |
