@@ -1,15 +1,20 @@
 class Solution {
+    
     public boolean isPalindrome(String s) {
-        s = s.replaceAll("[^a-zA-Z0-9]", "").toLowerCase();
-        int left = 0, right = s.length() - 1;
+        s = s.toLowerCase().replaceAll("[^a-z0-9]", "");
         
-        while (left < right) {
-            if (s.charAt(left) != s.charAt(right)) {
-                return false;
-            }
-            left++;
-            right--;
+        return isPalindrome(s, 0);  // Start checking from index 0
+    }
+    
+    public boolean isPalindrome(String s, int i) {
+        if (i >= s.length() / 2) {
+            return true;
         }
-        return true;
+        
+        if (s.charAt(i) != s.charAt(s.length() - i - 1)) {
+            return false;
+        }
+        
+        return isPalindrome(s, i + 1);
     }
 }
