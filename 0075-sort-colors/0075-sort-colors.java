@@ -1,8 +1,8 @@
-//class Solution {
+// class Solution {
 //    public void sortColors(int[] nums) {
 //        Arrays.sort(nums);  //  tc  O(nlogn)
 //    }
-//}
+// }
 
 /*class Solution {
     public void sortColors(int[] nums) {    /// optimal tc = O(2N)
@@ -18,7 +18,9 @@
         }
     }
 }*/
-/*   // tc = O(N^2)
+class Solution {
+    public void sortColors(int[] nums) {    
+        // tc = O(N^2)
         int n = nums.length;
         for(int i= 0; i<n-1; i++){
             int mini=i;
@@ -34,35 +36,37 @@
             
         }
     }
+    
+}   
 
     
-}*/
-class Solution {
-    public void sortColors(int[] arr) {
-        int n = arr.length;
-        int low =0,  mid=0, high = n-1;
+// class Solution {
+//     public void sortColors(int[] arr) {   /// optimal solution
 
-        while(mid <= high){    /// tc O(N)
-            if(arr[mid] == 0){
-                int temp = arr[low];
-                arr[low] = arr[mid];
-                arr[mid] = temp;
+//         int n = arr.length;
+//         int low =0,  mid=0, high = n-1;
 
-                low++;
-                mid++;
-            }
-            else if(arr[mid] == 1){
-                mid++;
-            }
-            else{
-                int temp = arr[mid];
-                arr[mid] = arr[high];
-                arr[high] = temp;
+//         while(mid <= high){    /// tc O(N)
+//             if(arr[mid] == 0){
+//                 int temp = arr[low];
+//                 arr[low] = arr[mid];
+//                 arr[mid] = temp;
 
-                high--;
-            }
-        }
-    }
-}
+//                 low++;
+//                 mid++;
+//             }
+//             else if(arr[mid] == 1){
+//                 mid++;
+//             }
+//             else{
+//                 int temp = arr[mid];
+//                 arr[mid] = arr[high];
+//                 arr[high] = temp;
+
+//                 high--;
+//             }
+//         }
+//     }
+// }
 
 
