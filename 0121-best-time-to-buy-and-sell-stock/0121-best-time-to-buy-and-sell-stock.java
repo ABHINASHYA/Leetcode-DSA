@@ -3,7 +3,8 @@ class Solution {
         int n = prices.length;
         int minPrices = Integer.MAX_VALUE;
         int maxPro = 0;
-        for(int i=0; i<n; i++){    // tc = O(N*N)
+        
+        for(int i=0; i<n; i++){
             minPrices = Math.min(minPrices, prices[i]);
             maxPro = Math.max(maxPro, prices[i] - minPrices);
         }
