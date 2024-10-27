@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0485-max-consecutive-ones) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0539-minimum-time-difference) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Prefix Sum
