@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0493-reverse-pairs) |
 | [0539-minimum-time-difference](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0724-find-pivot-index) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0162-find-peak-element) |
+| [0493-reverse-pairs](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0493-reverse-pairs) |
 | [0633-sum-of-square-numbers](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1046-max-consecutive-ones-iii) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0191-number-of-1-bits) |
+| [0493-reverse-pairs](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -353,4 +356,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
