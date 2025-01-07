@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0008-string-to-integer-atoi) |
 | [0125-valid-palindrome](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0214-shortest-palindrome) |
