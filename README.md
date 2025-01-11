@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0125-valid-palindrome) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Tree
