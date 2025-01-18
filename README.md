@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0326-power-of-three) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0206-reverse-linked-list) |
 ## String
 |  |
 | ------- |
