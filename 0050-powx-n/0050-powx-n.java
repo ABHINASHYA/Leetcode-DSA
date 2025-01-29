@@ -1,22 +1,20 @@
 class Solution {
-    public double myPow(double x, int n) {
-        //return Math.pow(x,n); // high compexity---O(x^n) //this is one line code
-       return find(x,(long) n);
-    }
-    double find(double x, long n){
-        if(n<0){
-            return 1.0/find(x, -n);
+    public double myPow(double b, int n) {
+    double res = 1.0;
+        long e = n;
+        
+        if(e < 0){
+            b = 1/b;
+            e = -e;
         }
-        if(n==0){
-            return 1;
+        
+        while(e > 0){
+            if(e%2 == 1){
+                res *= b;
+            }
+            b *= b;
+            e /= 2;
         }
-        if(x==0){
-            return 0;
-        }
-        double ans=find(x, n/2);
-        if(n%2==0){
-            return ans*ans;
-        }
-        return x*ans*ans;
+        return res;
     }
 }
