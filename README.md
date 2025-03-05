@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2050-count-good-numbers) |
 | [2491-smallest-even-multiple](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2491-smallest-even-multiple) |
 | [2571-find-the-pivot-integer](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2571-find-the-pivot-integer) |
+| [2649-count-total-number-of-colored-cells](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2649-count-total-number-of-colored-cells) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Dynamic Programming
 |  |
