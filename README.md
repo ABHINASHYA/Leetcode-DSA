@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2050-count-good-numbers) |
 | [2491-smallest-even-multiple](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2491-smallest-even-multiple) |
 | [2571-find-the-pivot-integer](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2571-find-the-pivot-integer) |
+| [2610-closest-prime-numbers-in-range](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2491-smallest-even-multiple) |
+| [2610-closest-prime-numbers-in-range](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2610-closest-prime-numbers-in-range) |
 ## Greedy
 |  |
 | ------- |
