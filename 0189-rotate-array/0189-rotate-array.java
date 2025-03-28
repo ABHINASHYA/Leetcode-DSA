@@ -1,19 +1,23 @@
 class Solution {
     public void rotate(int[] nums, int k) {
-        k %= nums.length;
-        int n = nums.length;
-        reverse(nums, 0, n-1);
-        reverse(nums, 0, k-1);
-        reverse(nums, k, n-1);
-        System.out.println(nums);
-    }
-    static void reverse(int[] nums, int start, int end){
-        while(start<=end){
-            int temp = nums[start];
-            nums[start] = nums[end];
-            nums[end] = temp;
-            start++;
-            end--;
+        int n=nums.length;
+        Deque<Integer> dq =new LinkedList<>();
+        
+        for(int i:nums){
+            dq.addLast(i);
         }
+        while(k>0){
+            int last=dq.peekLast();
+            dq.removeLast();
+            dq.addFirst(last);
+            k--;        
+        }
+        int i=0;
+        while(dq.isEmpty()==false){
+            nums[i]=dq.peekFirst();
+            dq.removeFirst();
+            i++;
+        }
+        return;
     }
 }
