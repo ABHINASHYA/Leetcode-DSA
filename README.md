@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2047-find-a-peak-element-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2047-find-a-peak-element-ii) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2047-find-a-peak-element-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2047-find-a-peak-element-ii) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0890-lemonade-change) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Linked List
 |  |
 | ------- |
@@ -504,4 +508,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Queue
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 <!---LeetCode Topics End-->
