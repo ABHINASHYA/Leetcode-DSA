@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Sorting
 |  |
 | ------- |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -528,4 +530,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3201-distribute-candies-among-children-ii) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 <!---LeetCode Topics End-->
