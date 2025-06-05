@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0344-reverse-string) |
 | [0539-minimum-time-difference](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0547-number-of-provinces) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1058-lexicographically-smallest-equivalent-string) |
 ## Graph
 |  |
 | ------- |
