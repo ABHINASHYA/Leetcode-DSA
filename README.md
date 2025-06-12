@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3643-zero-array-transformation-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3643-zero-array-transformation-ii) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Binary Search
 |  |
 | ------- |
