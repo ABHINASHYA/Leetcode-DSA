@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0539-minimum-time-difference) |
 | [0633-sum-of-square-numbers](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1013-fibonacci-number) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2050-count-good-numbers](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2050-count-good-numbers) |
 | [2491-smallest-even-multiple](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2491-smallest-even-multiple) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0890-lemonade-change) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
