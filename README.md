@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-distribute-candies-among-children-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3201-distribute-candies-among-children-ii) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Enumeration
 |  |
 | ------- |
