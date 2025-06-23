@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2050-count-good-numbers](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2050-count-good-numbers) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2491-smallest-even-multiple](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2491-smallest-even-multiple) |
 | [2571-find-the-pivot-integer](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2571-find-the-pivot-integer) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2610-closest-prime-numbers-in-range) |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2202-sum-of-k-mirror-numbers](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
