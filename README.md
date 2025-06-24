@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
