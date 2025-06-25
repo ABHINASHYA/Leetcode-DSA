@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2047-find-a-peak-element-ii) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2047-find-a-peak-element-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2047-find-a-peak-element-ii) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
