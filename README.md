@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Dynamic Programming
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Memoization
 |  |
 | ------- |
