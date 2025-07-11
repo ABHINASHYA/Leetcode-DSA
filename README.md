@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3643-zero-array-transformation-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3643-zero-array-transformation-ii) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Binary Search
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Linked List
 |  |
@@ -634,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2202-sum-of-k-mirror-numbers](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Design
 |  |
