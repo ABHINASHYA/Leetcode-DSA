@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0539-minimum-time-difference) |
 | [0633-sum-of-square-numbers](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1013-fibonacci-number) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2050-count-good-numbers](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2050-count-good-numbers) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## String
 |  |
 | ------- |
