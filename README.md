@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0724-find-pivot-index](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0794-swim-in-rising-water) |
 | [0890-lemonade-change](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0941-sort-array-by-parity) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0547-number-of-provinces) |
+| [0794-swim-in-rising-water](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0794-swim-in-rising-water) |
 | [0975-range-sum-of-bst](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
@@ -512,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0547-number-of-provinces) |
+| [0794-swim-in-rising-water](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0794-swim-in-rising-water) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Binary Tree
 |  |
@@ -555,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0547-number-of-provinces) |
+| [0794-swim-in-rising-water](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0794-swim-in-rising-water) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1058-lexicographically-smallest-equivalent-string) |
 ## Graph
 |  |
@@ -600,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0794-swim-in-rising-water) |
 | [2047-find-a-peak-element-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2047-find-a-peak-element-ii) |
 | [2737-row-with-maximum-ones](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3227-find-missing-and-repeated-values) |
@@ -625,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0407-trapping-rain-water-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0794-swim-in-rising-water) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2479-meeting-rooms-iii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2479-meeting-rooms-iii) |
