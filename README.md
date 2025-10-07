@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1612-avoid-flood-in-the-city](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1612-avoid-flood-in-the-city](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2047-find-a-peak-element-ii) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1612-avoid-flood-in-the-city](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0890-lemonade-change) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1612-avoid-flood-in-the-city](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -633,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0794-swim-in-rising-water) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1612-avoid-flood-in-the-city](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2479-meeting-rooms-iii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2479-meeting-rooms-iii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
