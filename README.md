@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2479-meeting-rooms-iii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2479-meeting-rooms-iii) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2479-meeting-rooms-iii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2479-meeting-rooms-iii) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
