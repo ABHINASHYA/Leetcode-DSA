@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1435-xor-queries-of-a-subarray) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0941-sort-array-by-parity](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1019-squares-of-a-sorted-array) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1078-remove-outermost-parentheses) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1786-count-the-number-of-consistent-strings) |
