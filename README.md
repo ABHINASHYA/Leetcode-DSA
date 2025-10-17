@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2714-left-and-right-sum-differences](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2714-left-and-right-sum-differences) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2571-find-the-pivot-integer](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2571-find-the-pivot-integer) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2649-count-total-number-of-colored-cells) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3201-distribute-candies-among-children-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3227-find-missing-and-repeated-values) |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
