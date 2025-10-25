@@ -488,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0547-number-of-provinces) |
 | [0794-swim-in-rising-water](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0794-swim-in-rising-water) |
 | [0975-range-sum-of-bst](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0975-range-sum-of-bst) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0547-number-of-provinces) |
 | [0794-swim-in-rising-water](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0794-swim-in-rising-water) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Binary Tree
 |  |
 | ------- |
@@ -704,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3201-distribute-candies-among-children-ii) |
