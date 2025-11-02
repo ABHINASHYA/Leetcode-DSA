@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2479-meeting-rooms-iii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2479-meeting-rooms-iii) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2169-simple-bank-system) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2479-meeting-rooms-iii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2551-apply-operations-to-an-array) |
 | [3336-water-bottles-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3336-water-bottles-ii) |
@@ -675,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0794-swim-in-rising-water) |
 | [2047-find-a-peak-element-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2047-find-a-peak-element-ii) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2737-row-with-maximum-ones](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Indexed Tree
