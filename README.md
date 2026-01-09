@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0525-contiguous-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0493-reverse-pairs) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0792-binary-search) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0455-assign-cookies) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0633-sum-of-square-numbers](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0633-sum-of-square-numbers) |
 | [0941-sort-array-by-parity](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1019-squares-of-a-sorted-array) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0455-assign-cookies) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0941-sort-array-by-parity](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0941-sort-array-by-parity) |
@@ -271,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0525-contiguous-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0525-contiguous-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0920-uncommon-words-from-two-sentences) |
