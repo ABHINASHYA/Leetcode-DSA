@@ -432,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
 | [1013-fibonacci-number](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1013-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1143-longest-common-subsequence) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1078-remove-outermost-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1143-longest-common-subsequence) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
