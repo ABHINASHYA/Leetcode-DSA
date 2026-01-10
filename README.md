@@ -436,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1013-fibonacci-number](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1013-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1143-longest-common-subsequence) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0539-minimum-time-difference](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0539-minimum-time-difference) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1058-lexicographically-smallest-equivalent-string) |
