@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0720-longest-word-in-dictionary](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0724-find-pivot-index](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0794-swim-in-rising-water) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0720-longest-word-in-dictionary](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0941-sort-array-by-parity](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0720-longest-word-in-dictionary](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -535,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0539-minimum-time-difference](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0539-minimum-time-difference) |
+| [0720-longest-word-in-dictionary](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1078-remove-outermost-parentheses) |
@@ -700,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [0720-longest-word-in-dictionary](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0720-longest-word-in-dictionary) |
 ## Backtracking
 |  |
 | ------- |
