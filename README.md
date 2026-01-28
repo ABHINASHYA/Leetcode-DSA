@@ -775,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2479-meeting-rooms-iii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3863-power-grid-maintenance](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3863-power-grid-maintenance) |
 ## Quickselect
 |  |
@@ -815,4 +816,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Shortest Path
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
