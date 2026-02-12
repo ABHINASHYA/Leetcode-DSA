@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3713-longest-balanced-substring-i](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3721-longest-balanced-subarray-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3713-longest-balanced-substring-i](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Prefix Sum
@@ -591,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3617-find-the-original-typed-string-i](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3618-find-the-original-typed-string-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3713-longest-balanced-substring-i](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -822,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2202-sum-of-k-mirror-numbers](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3713-longest-balanced-substring-i](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Design
