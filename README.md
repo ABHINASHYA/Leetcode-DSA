@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0342-power-of-four) |
+| [0693-binary-number-with-alternating-bits](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/0693-binary-number-with-alternating-bits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/1786-count-the-number-of-consistent-strings) |
