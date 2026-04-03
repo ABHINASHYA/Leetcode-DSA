@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3643-zero-array-transformation-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3643-flip-square-submatrix-vertically) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3721-longest-balanced-subarray-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3643-zero-array-transformation-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Hash Table
 |  |
 | ------- |
@@ -489,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3618-find-the-original-typed-string-ii](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3618-find-the-original-typed-string-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ABHINASHYA/Leetcode-DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Recursion
 |  |
